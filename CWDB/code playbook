@@ -1,0 +1,111 @@
+<!--WD HTML CODES-->
+
+<!--Document type-->
+
+<!DOCTYPE html>
+<!--its an html website code-->
+
+<html>
+  ""
+</html>
+<!--everything between is going to be html code -->
+
+<head>
+  ""
+</head>
+<!--Holds the information about the page and tells the browser how it should handle the page-->
+
+<meta />
+<!--Gives Extra meta data to html-->
+
+<title>""</title>
+<!--Holds the title of the Document/web page-->
+
+<!--Headings-->
+<h1>this is a level 1 heading created using the h1 tag</h1>
+<h2>next size of heading slightly smaller</h2>
+<h3>""</h3>
+<h4>""</h4>
+<h5>""</h5>
+<h6>"smallest"</h6>
+
+<!--you can write paragraphs in here-->
+<p>""</p>
+
+<!--The <em> element is for words that have a stressed emphasis compared to surrounding text-->
+<!--can be used to italisize words-->
+<em>""</em>
+
+<!--The <strong> element is for content that is of "strong importance," including things of great seriousness or urgency (such as warnings).-->
+<!--can also be used to bold something important-->
+<strong>""</strong>
+
+<!--line breaks (spaces or skip line)-->
+<br />
+
+<!--Horizontal rule-->
+<!--sets the rules of that line 
+   like what size , shade color or width it should be-->
+<hr size="" noshade="" color="" width="" align="" />
+
+<!--centers whats in it-->
+<center></center>
+
+<!--<ul>: The Unordered List element-->
+<!--element represents an unordered list of items, typically rendered as a bulleted list-->
+<!--bullet points-->
+<ul>
+  . -------------------------------- . --------------------------------
+</ul>
+
+<!--    <ol>: The Ordered List element-->
+<!--The <ol> HTML element represents an ordered list of items — typically rendered as a numbered list or alphabetical-->
+<ol type=" 1, a, or i">
+  1. -------------------------------- 2. --------------------------------
+</ol>
+
+<!--<li>: The List Item element-->
+<!--goes in the unordered list or ordered list -->
+<li>""</li>
+
+<!--<img>: The Image Embed element-->
+<!--adds images to the page-->
+<img src="" alt="" />
+
+<!--<a>: The Anchor element-->
+<!--The <a> HTML element (or anchor element), with its href attribute, creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address.-->
+<a href="">name</a>
+
+<!--<table>: The Table element-->
+<!--The <table> HTML element represents tabular data — that is, information presented in a two-dimensional table comprised of rows and columns of cells containing data.-->
+<table>
+  <thead>
+    <!--the head of the table-->
+    <tr>
+      <!--a row-->
+      <th><!--the name of the cell--></th>
+      <th><!--the name of the second cell--></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <!--the body of the table-->
+    <tr>
+      <!--a row in the body-->
+      <td><!--first colom--></td>
+      <td><!--second colom--></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <!--the foot of the body-->
+  </tfoot>
+</table>
+
+<!--<form>: The Form element-->
+<!--The <form> HTML element represents a document section containing interactive controls for submitting information.-->
+<form <!--this is one form-->
+  <label><!--text that name what is required--></label>
+  <input type="text" /> <!--self closing -can change to different types-->
+  <input type="submit">
+
+</form>
